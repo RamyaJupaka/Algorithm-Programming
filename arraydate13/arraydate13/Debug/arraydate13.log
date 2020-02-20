@@ -1,0 +1,5 @@
+﻿  arraydate13.cpp
+e:\c# all sems visualstudio\arraydate13\arraydate13\arraydate13.cpp(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\c# all sems visualstudio\arraydate13\arraydate13\arraydate13.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\c# all sems visualstudio\arraydate13\arraydate13\arraydate13.cpp(69): warning C4101: 'i': unreferenced local variable
+  arraydate13.vcxproj -> E:\c# all sems visualstudio\arraydate13\Debug\arraydate13.exe

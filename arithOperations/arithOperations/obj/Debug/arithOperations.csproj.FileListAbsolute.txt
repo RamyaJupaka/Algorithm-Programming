@@ -1,0 +1,20 @@
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\bin\Debug\arithOperations.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\bin\Debug\arithOperations.exe
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\bin\Debug\arithOperations.pdb
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.Form1.resources
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.Properties.Resources.resources
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.csproj.GenerateResource.cache
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.exe
+C:\Users\RAMYA JUPAKA\source\repos\arithOperations\arithOperations\obj\Debug\arithOperations.pdb
+E:\c# all sems visualstudio\arithOperations\arithOperations\bin\Debug\arithOperations.exe.config
+E:\c# all sems visualstudio\arithOperations\arithOperations\bin\Debug\arithOperations.exe
+E:\c# all sems visualstudio\arithOperations\arithOperations\bin\Debug\arithOperations.pdb
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.Form1.resources
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.Properties.Resources.resources
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.exe
+E:\c# all sems visualstudio\arithOperations\arithOperations\obj\Debug\arithOperations.pdb

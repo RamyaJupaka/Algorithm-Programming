@@ -1,0 +1,14 @@
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\bin\Debug\array_.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\bin\Debug\array_.exe
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\bin\Debug\array_.pdb
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\obj\Debug\array_.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\obj\Debug\array_.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\obj\Debug\array_.exe
+C:\Users\RAMYA JUPAKA\source\repos\array_\array_\obj\Debug\array_.pdb
+E:\c# all sems visualstudio\array_\array_\bin\Debug\array_.exe.config
+E:\c# all sems visualstudio\array_\array_\bin\Debug\array_.exe
+E:\c# all sems visualstudio\array_\array_\bin\Debug\array_.pdb
+E:\c# all sems visualstudio\array_\array_\obj\Debug\array_.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\array_\array_\obj\Debug\array_.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\array_\array_\obj\Debug\array_.exe
+E:\c# all sems visualstudio\array_\array_\obj\Debug\array_.pdb

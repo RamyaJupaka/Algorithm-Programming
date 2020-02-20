@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  employee_struct_solution.cpp
+e:\c# all sems visualstudio\employee_struct_solution\employee_struct_solution\employee_struct_solution.cpp(242): warning C4018: '<': signed/unsigned mismatch
+  employee_struct_solution.vcxproj -> E:\c# all sems visualstudio\employee_struct_solution\Debug\employee_struct_solution.exe

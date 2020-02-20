@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Dental Clinic.cpp
+e:\c# all sems visualstudio\dental clinic\dental clinic\dental clinic.cpp(103): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Dental Clinic.vcxproj -> E:\c# all sems visualstudio\Dental Clinic\Debug\Dental Clinic.exe

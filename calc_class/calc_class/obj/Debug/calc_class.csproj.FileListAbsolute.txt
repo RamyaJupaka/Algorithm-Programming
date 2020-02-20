@@ -1,0 +1,14 @@
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\obj\Debug\calc_class.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\obj\Debug\calc_class.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\bin\Debug\calc_class.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\bin\Debug\calc_class.exe
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\bin\Debug\calc_class.pdb
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\obj\Debug\calc_class.exe
+C:\Users\RAMYA JUPAKA\source\repos\calc_class\calc_class\obj\Debug\calc_class.pdb
+E:\c# all sems visualstudio\calc_class\calc_class\bin\Debug\calc_class.exe.config
+E:\c# all sems visualstudio\calc_class\calc_class\bin\Debug\calc_class.exe
+E:\c# all sems visualstudio\calc_class\calc_class\bin\Debug\calc_class.pdb
+E:\c# all sems visualstudio\calc_class\calc_class\obj\Debug\calc_class.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\calc_class\calc_class\obj\Debug\calc_class.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\calc_class\calc_class\obj\Debug\calc_class.exe
+E:\c# all sems visualstudio\calc_class\calc_class\obj\Debug\calc_class.pdb

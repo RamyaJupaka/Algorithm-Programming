@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  character_array.cpp
+e:\c# all sems visualstudio\character_array\character_array\character_array.cpp(45): warning C4930: 'std::string toupper(void)': prototyped function not called (was a variable definition intended?)
+e:\c# all sems visualstudio\character_array\character_array\character_array.cpp(43): warning C4930: 'std::string tolower(void)': prototyped function not called (was a variable definition intended?)
+  character_array.vcxproj -> E:\c# all sems visualstudio\character_array\Debug\character_array.exe

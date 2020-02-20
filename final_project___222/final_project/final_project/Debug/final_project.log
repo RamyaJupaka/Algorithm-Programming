@@ -1,0 +1,6 @@
+﻿  final_project.cpp
+e:\c# all sems visualstudio\final_project___222\final_project\final_project\final_project.cpp(176): warning C4102: 'selection1': unreferenced label
+e:\c# all sems visualstudio\final_project___222\final_project\final_project\final_project.cpp(199): warning C4102: 'selection': unreferenced label
+e:\c# all sems visualstudio\final_project___222\final_project\final_project\final_project.cpp(268): warning C4102: 'selection2': unreferenced label
+e:\c# all sems visualstudio\final_project___222\final_project\final_project\final_project.cpp(442): warning C4102: 'selection1': unreferenced label
+  final_project.vcxproj -> E:\c# all sems visualstudio\final_project___222\final_project\Debug\final_project.exe
